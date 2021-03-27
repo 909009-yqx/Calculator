@@ -1,0 +1,5 @@
+D:\C#\课后\20210322简单计算器Github\20210322简单计算器Github\bin\Debug\20210322简单计算器Github.exe
+D:\C#\课后\20210322简单计算器Github\20210322简单计算器Github\bin\Debug\20210322简单计算器Github.pdb
+D:\C#\课后\20210322简单计算器Github\20210322简单计算器Github\obj\Debug\20210322简单计算器Github.csprojResolveAssemblyReference.cache
+D:\C#\课后\20210322简单计算器Github\20210322简单计算器Github\obj\Debug\20210322简单计算器Github.exe
+D:\C#\课后\20210322简单计算器Github\20210322简单计算器Github\obj\Debug\20210322简单计算器Github.pdb
